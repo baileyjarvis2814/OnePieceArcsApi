@@ -6,12 +6,11 @@ app.use(express.json());
 
 const data = require('./OnePieceArcs.json');
 
-
 app.get('/api/data', (req, res) => {
   res.json(data);
 });
 
-app.get('/api/data/:arc', (req, res) => {
+app.get('/api/data/arc', (req, res) => {
   const { arc } = req.params;
   const item = data.find((d) => d.Arc.toLowerCase() === arc.toLowerCase());
   if (item) {
