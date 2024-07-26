@@ -1,155 +1,332 @@
 [
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Romance Dawn Arc;1;7;178;0.9%;1;3;72;0.3%"
+    "Arc": "Romance Dawn Arc",
+    "Start onChapter": 1,
+    "TotalChapters": 7,
+    "Start onEpisode": 1,
+    "TotalEpisodes": 3,
+    "Main Antagonist": "Axe-Hand Morgan",
+    "Important Moment": "Luffy sets out on his journey.",
+    "Major Spoiler Moment": "Introduction of Zoro."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Orange Town Arc;8;14;273;1.4%;4;5;120;0.5%"
+    "Arc": "Orange Town Arc",
+    "Start onChapter": 8,
+    "TotalChapters": 14,
+    "Start onEpisode": 4,
+    "TotalEpisodes": 5,
+    "Main Antagonist": "Buggy the Clown",
+    "Important Moment": "Nami officially joins Luffy's crew.",
+    "Major Spoiler Moment": "Luffy's first use of Gomu Gomu no Bazooka."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Syrup Village Arc;22;20;396;2.0%;9;10;240;1.0%"
+    "Arc": "Syrup Village Arc",
+    "Start onChapter": 22,
+    "TotalChapters": 20,
+    "Start onEpisode": 9,
+    "TotalEpisodes": 10,
+    "Main Antagonist": "Kuro",
+    "Important Moment": "Usopp joins the crew.",
+    "Major Spoiler Moment": "Luffy defeats Kuro."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Baratie Arc;42;27;514;2.6%;19;12;288;1.2%"
+    "Arc": "Baratie Arc",
+    "Start onChapter": 42,
+    "TotalChapters": 27,
+    "Start onEpisode": 19,
+    "TotalEpisodes": 12,
+    "Main Antagonist": "Don Krieg",
+    "Important Moment": "Sanji joins the crew.",
+    "Major Spoiler Moment": "Zoro is defeated by Mihawk."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Arlong Park Arc;69;27;514;2.6%;31;15;360;1.5%"
+    "Arc": "Arlong Park Arc",
+    "Start onChapter": 69,
+    "TotalChapters": 27,
+    "Start onEpisode": 31,
+    "TotalEpisodes": 15,
+    "Main Antagonist": "Arlong",
+    "Important Moment": "Nami's tragic past is revealed.",
+    "Major Spoiler Moment": "Luffy destroys Arlong Park."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Buggy Side Story Arc;0;0;0;0.0%;46;2;48;0.2%"
+    "Arc": "Loguetown Arc",
+    "Start onChapter": 96,
+    "TotalChapters": 5,
+    "Start onEpisode": 48,
+    "TotalEpisodes": 6,
+    "Main Antagonist": "Smoker",
+    "Important Moment": "Luffy's execution is interrupted by a lightning bolt.",
+    "Major Spoiler Moment": "Dragon's first appearance."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Loguetown Arc;96;5;100;0.5%;48;6;144;0.6%"
+    "Arc": "Reverse Mountain Arc",
+    "Start onChapter": 101,
+    "TotalChapters": 5,
+    "Start onEpisode": 62,
+    "TotalEpisodes": 2,
+    "Main Antagonist": "Laboon",
+    "Important Moment": "Meeting Laboon at Reverse Mountain.",
+    "Major Spoiler Moment": "Introduction of the Grand Line."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Warship Island Arc;0;0;0;0.0%;54;8;192;0.8%"
+    "Arc": "Whiskey Peak Arc",
+    "Start onChapter": 106,
+    "TotalChapters": 9,
+    "Start onEpisode": 64,
+    "TotalEpisodes": 4,
+    "Main Antagonist": "Mr. 5",
+    "Important Moment": "Zoro fights the Baroque Works agents.",
+    "Major Spoiler Moment": "Luffy vs. Zoro."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Reverse Mountain Arc;101;5;96;0.5%;62;2;48;0.2%"
+    "Arc": "Little Garden Arc",
+    "Start onChapter": 115,
+    "TotalChapters": 15,
+    "Start onEpisode": 70,
+    "TotalEpisodes": 8,
+    "Main Antagonist": "Mr. 3",
+    "Important Moment": "Dorry and Brogy's duel.",
+    "Major Spoiler Moment": "Giant candle trap."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Whiskey Peak Arc;106;9;169;0.9%;64;4;96;0.4%"
+    "Arc": "Drum Island Arc",
+    "Start onChapter": 130,
+    "TotalChapters": 25,
+    "Start onEpisode": 78,
+    "TotalEpisodes": 14,
+    "Main Antagonist": "Wapol",
+    "Important Moment": "Chopper joins the crew.",
+    "Major Spoiler Moment": "Hiluluk's cherry blossoms."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Koby and Helmeppo Arc;0;0;0;0.0%;68;2;48;0.2%"
+    "Arc": "Alabasta Arc",
+    "Start onChapter": 155,
+    "TotalChapters": 63,
+    "Start onEpisode": 92,
+    "TotalEpisodes": 39,
+    "Main Antagonist": "Crocodile",
+    "Important Moment": "Defeating Crocodile and saving Alabasta.",
+    "Major Spoiler Moment": "Luffy uses blood to counter Crocodile's sand."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Little Garden Arc;115;15;288;1.5%;70;8;192;0.8%"
+    "Arc": "Jaya Arc",
+    "Start onChapter": 218,
+    "TotalChapters": 19,
+    "Start onEpisode": 144,
+    "TotalEpisodes": 9,
+    "Main Antagonist": "Bellamy the Hyena",
+    "Important Moment": "Luffy punches Bellamy.",
+    "Major Spoiler Moment": "Introduction of Blackbeard."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Drum Island Arc;130;25;477;2.5%;78;14;336;1.4%"
+    "Arc": "Skypiea Arc",
+    "Start onChapter": 237,
+    "TotalChapters": 66,
+    "Start onEpisode": 153,
+    "TotalEpisodes": 43,
+    "Main Antagonist": "Enel",
+    "Important Moment": "Ringing the Golden Bell.",
+    "Major Spoiler Moment": "Luffy's rubber immunity to Enel's lightning."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Alabasta Arc;155;63;1199;6.2%;92;39;936;3.8%"
+    "Arc": "Long Ring Long Land Arc",
+    "Start onChapter": 303,
+    "TotalChapters": 19,
+    "Start onEpisode": 207,
+    "TotalEpisodes": 15,
+    "Main Antagonist": "Foxxy",
+    "Important Moment": "Davy Back Fight.",
+    "Major Spoiler Moment": "Aokiji's first appearance."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Post-Alabasta Arc;0;0;0;0.0%;131;5;120;0.5%"
+    "Arc": "Water 7 Arc",
+    "Start onChapter": 322,
+    "TotalChapters": 53,
+    "Start onEpisode": 229,
+    "TotalEpisodes": 35,
+    "Main Antagonist": "CP9",
+    "Important Moment": "Usopp leaves the crew.",
+    "Major Spoiler Moment": "Going Merry's funeral."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Goat Island Arc;0;0;0;0.0%;136;3;72;0.3%"
+    "Arc": "Enies Lobby Arc",
+    "Start onChapter": 375,
+    "TotalChapters": 56,
+    "Start onEpisode": 264,
+    "TotalEpisodes": 49,
+    "Main Antagonist": "Rob Lucci",
+    "Important Moment": "Robin declares she wants to live.",
+    "Major Spoiler Moment": "Gear Second and Gear Third debut."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Ruluka Island Arc;0;0;0;0.0%;139;5;120;0.5%"
+    "Arc": "Post-Enies Lobby Arc",
+    "Start onChapter": 431,
+    "TotalChapters": 11,
+    "Start onEpisode": 313,
+    "TotalEpisodes": 13,
+    "Main Antagonist": "Spandam",
+    "Important Moment": "Thousand Sunny is introduced.",
+    "Major Spoiler Moment": "Revelation of Luffy's family."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Jaya Arc;218;19;361;1.9%;144;9;216;0.9%"
+    "Arc": "Thriller Bark Arc",
+    "Start onChapter": 442,
+    "TotalChapters": 48,
+    "Start onEpisode": 337,
+    "TotalEpisodes": 45,
+    "Main Antagonist": "Gecko Moria",
+    "Important Moment": "Brook joins the crew.",
+    "Major Spoiler Moment": "Nightmare Luffy."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Skypiea Arc;237;66;1242;6.4%;153;43;1032;4.2%"
+    "Arc": "Sabaody Archipelago Arc",
+    "Start onChapter": 490,
+    "TotalChapters": 24,
+    "Start onEpisode": 385,
+    "TotalEpisodes": 21,
+    "Main Antagonist": "Admiral Kizaru",
+    "Important Moment": "The crew is separated by Bartholomew Kuma.",
+    "Major Spoiler Moment": "Introduction of the Supernovas."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "G-8 Arc;0;0;0;0.0%;196;11;264;1.1%"
+    "Arc": "Amazon Lily Arc",
+    "Start onChapter": 514,
+    "TotalChapters": 11,
+    "Start onEpisode": 408,
+    "TotalEpisodes": 14,
+    "Main Antagonist": "Boa Hancock",
+    "Important Moment": "Luffy enters Amazon Lily.",
+    "Major Spoiler Moment": "Hancock's love for Luffy."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Long Ring Long Land Arc;303;19;365;1.9%;207;15;360;1.5%"
+    "Arc": "Impel Down Arc",
+    "Start onChapter": 525,
+    "TotalChapters": 25,
+    "Start onEpisode": 422,
+    "TotalEpisodes": 31,
+    "Main Antagonist": "Magellan",
+    "Important Moment": "Luffy's alliance with former enemies.",
+    "Major Spoiler Moment": "Rescue of Ace fails."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Ocean's Dream Arc;0;0;0;0.0%;220;5;120;0.5%"
+    "Arc": "Marineford Arc",
+    "Start onChapter": 550,
+    "TotalChapters": 31,
+    "Start onEpisode": 457,
+    "TotalEpisodes": 33,
+    "Main Antagonist": "Admiral Akainu",
+    "Important Moment": "Ace's death.",
+    "Major Spoiler Moment": "Whitebeard's death."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Foxy's Return Arc;0;0;0;0.0%;225;2;48;0.2%"
+    "Arc": "Post-War Arc",
+    "Start onChapter": 581,
+    "TotalChapters": 17,
+    "Start onEpisode": 490,
+    "TotalEpisodes": 27,
+    "Main Antagonist": "Blackbeard",
+    "Important Moment": "Luffy's training for two years.",
+    "Major Spoiler Moment": "Sabo's return."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Water 7 Arc;322;53;1009;5.2%;229;35;840;3.4%"
+    "Arc": "Return to Sabaody Arc",
+    "Start onChapter": 598,
+    "TotalChapters": 5,
+    "Start onEpisode": 517,
+    "TotalEpisodes": 6,
+    "Main Antagonist": "Sentomaru",
+    "Important Moment": "The crew reunites after two years.",
+    "Major Spoiler Moment": "Straw Hat's new abilities."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Enies Lobby Arc;375;56;1060;5.4%;264;49;1176;4.8%"
+    "Arc": "Fishman Island Arc",
+    "Start onChapter": 603,
+    "TotalChapters": 51,
+    "Start onEpisode": 523,
+    "TotalEpisodes": 52,
+    "Main Antagonist": "Hody Jones",
+    "Important Moment": "Luffy declares Fishman Island as his territory.",
+    "Major Spoiler Moment": "Luffy uses Haoshoku Haki."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Post-Enies Lobby Arc;431;11;209;1.1%;313;13;312;1.3%"
+    "Arc": "Punk Hazard Arc",
+    "Start onChapter": 654,
+    "TotalChapters": 46,
+    "Start onEpisode": 579,
+    "TotalEpisodes": 47,
+    "Main Antagonist": "Caesar Clown",
+    "Important Moment": "Alliance with Trafalgar Law.",
+    "Major Spoiler Moment": "Introduction of the SAD."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Ice Hunter Arc;0;0;0;0.0%;326;11;264;1.1%"
+    "Arc": "Dressrosa Arc",
+    "Start onChapter": 700,
+    "TotalChapters": 102,
+    "Start onEpisode": 629,
+    "TotalEpisodes": 118,
+    "Main Antagonist": "Donquixote Doflamingo",
+    "Important Moment": "Defeating Doflamingo and liberating Dressrosa.",
+    "Major Spoiler Moment": "Gear Fourth debut."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Thriller Bark Arc;442;48;912;4.7%;337;45;1080;4.4%"
+    "Arc": "Zou Arc",
+    "Start onChapter": 802,
+    "TotalChapters": 23,
+    "Start onEpisode": 751,
+    "TotalEpisodes": 29,
+    "Main Antagonist": "Jack",
+    "Important Moment": "Forming the Ninja-Pirate-Mink-Samurai alliance.",
+    "Major Spoiler Moment": "Zunisha's attack."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Spa Island Arc;0;0;0;0.0%;382;3;72;0.3%"
+    "Arc": "Whole Cake Island Arc",
+    "Start onChapter": 825,
+    "TotalChapters": 78,
+    "Start onEpisode": 783,
+    "TotalEpisodes": 95,
+    "Main Antagonist": "Big Mom",
+    "Important Moment": "Sanji's wedding and escape.",
+    "Major Spoiler Moment": "Luffy vs. Katakuri."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Sabaody Archipelago Arc;490;24;456;2.3%;385;21;504;2.0%"
+    "Arc": "Levely Arc",
+    "Start onChapter": 903,
+    "TotalChapters": 6,
+    "Start onEpisode": 878,
+    "TotalEpisodes": 12,
+    "Main Antagonist": "N/A",
+    "Important Moment": "Reverie begins.",
+    "Major Spoiler Moment": "Reverie discussions and decisions."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Special Historical Arc;0;0;0;0.0%;406;2;48;0.2%"
+    "Arc": "Wano Country Arc: Act 1",
+    "Start onChapter": 909,
+    "TotalChapters": 16,
+    "Start onEpisode": 890,
+    "TotalEpisodes": 26,
+    "Main Antagonist": "Kaido",
+    "Important Moment": "Luffy's first defeat by Kaido.",
+    "Major Spoiler Moment": "Kaido's dragon form."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Amazon Lily Arc;514;11;209;1.1%;408;14;336;1.4%"
+    "Arc": "Wano Country Arc: Act 2",
+    "Start onChapter": 925,
+    "TotalChapters": 33,
+    "Start onEpisode": 918,
+    "TotalEpisodes": 41,
+    "Main Antagonist": "Kaido",
+    "Important Moment": "Alliance with the samurai of Wano.",
+    "Major Spoiler Moment": "Big Mom and Kaido's alliance."
   },
   {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Impel Down Arc;525;25;473;2.4%;422;31;744;3.0%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Little East Blue Arc;0;0;0;0.0%;426;4;96;0.4%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Marineford Arc;550;31;529;2.7%;457;33;792;3.2%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Post-War Arc;581;17;317;1.6%;490;27;648;2.6%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Return to Sabaody Arc;598;5;98;0.5%;517;6;144;0.6%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Fishman Island Arc;603;51;933;4.8%;523;52;1248;5.1%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Z's Ambition Arc;0;0;0;0.0%;575;4;96;0.4%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Punk Hazard Arc;654;46;856;4.4%;579;47;1128;4.6%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Caesar Retrieval Arc;0;0;0;0.0%;626;3;72;0.3%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Dressrosa Arc;700;102;1830;9.4%;629;118;2832;11.5%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Silver Mine Arc;0;0;0;0.0%;747;4;96;0.4%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Zou Arc;802;23;397;2.0%;751;29;696;2.8%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Marine Rookie Arc;0;0;0;0.0%;780;3;72;0.3%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Whole Cake Island Arc;825;78;1349;6.9%;783;95;2280;9.2%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Levely Arc;903;6;100;0.5%;878;12;288;1.2%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Wano Country Arc: Act 1;909;16;278;1.4%;890;26;624;2.5%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Cidre Guild Arc;0;0;0;0.0%;895;2;48;0.2%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Wano Country Arc: Act 2;925;33;560;2.9%;918;41;984;4.0%"
-  },
-  {
-    "Arc;Start onChapter;TotalChapters;TotalPages;Manga%;Start onEpisode;TotalEpisodes;TotalMinutes(avg 24);Anime%": "Wano Country Arc: Act 3;958;99;1709;8.8%;959;70;1680;6.8%"
+    "Arc": "Wano Country Arc: Act 3",
+    "Start onChapter": 958,
+    "TotalChapters": 99,
+    "Start onEpisode": 959,
+    "TotalEpisodes": 70,
+    "Main Antagonist": "Kaido",
+    "Important Moment": "Onigashima raid.",
+    "Major Spoiler Moment": "Oden's flashback."
   }
 ]
