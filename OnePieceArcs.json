@@ -5,9 +5,9 @@
     "TotalChapters": 7,
     "Start onEpisode": 1,
     "TotalEpisodes": 3,
-    "Main Antagonist": "Axe-Hand Morgan",
-    "Important Moment": "Luffy sets out on his journey.",
-    "Major Spoiler Moment": "Introduction of Zoro."
+    "Major players": "Axe-Hand Morgan, Luffy, Zoro",
+    "Importance": "Luffy is influenced by pirate friend Shanks, sets out on his journey and gains a first mate.",
+    "Major Spoiler Moment": "Establishing the power system of One Piece. 'He's a rubber man??'"
   },
   {
     "Arc": "Orange Town Arc",
@@ -15,9 +15,9 @@
     "TotalChapters": 14,
     "Start onEpisode": 4,
     "TotalEpisodes": 5,
-    "Main Antagonist": "Buggy the Clown",
-    "Important Moment": "Nami officially joins Luffy's crew.",
-    "Major Spoiler Moment": "Luffy's first use of Gomu Gomu no Bazooka."
+    "Major players": "Buggy Pirates, Nami, Luffy",
+    "Importance": "Nami joins the group as navigator.",
+    "Major Spoiler Moment": "Buggy also knows Shanks from many years on the same ship."
   },
   {
     "Arc": "Syrup Village Arc",
@@ -25,9 +25,9 @@
     "TotalChapters": 20,
     "Start onEpisode": 9,
     "TotalEpisodes": 10,
-    "Main Antagonist": "Kuro",
-    "Important Moment": "Usopp joins the crew.",
-    "Major Spoiler Moment": "Luffy defeats Kuro."
+    "Major players": "Kuro, Kaya, Usopp",
+    "Importance": "Usopp joins the crew as sniper.",
+    "Major Spoiler Moment": "The Straw hats get their first ship."
   },
   {
     "Arc": "Baratie Arc",
@@ -35,9 +35,9 @@
     "TotalChapters": 27,
     "Start onEpisode": 19,
     "TotalEpisodes": 12,
-    "Main Antagonist": "Don Krieg",
-    "Important Moment": "Sanji joins the crew.",
-    "Major Spoiler Moment": "Zoro is defeated by Mihawk."
+    "Major players": "Kreig Pirates, Sanji, Zeff",
+    "Importance": "Sanji joins the crew as chef.",
+    "Major Spoiler Moment": "Nami steals the ship while Zoro is mortally wounded."
   },
   {
     "Arc": "Arlong Park Arc",
@@ -45,9 +45,9 @@
     "TotalChapters": 27,
     "Start onEpisode": 31,
     "TotalEpisodes": 15,
-    "Main Antagonist": "Arlong",
-    "Important Moment": "Nami's tragic past is revealed.",
-    "Major Spoiler Moment": "Luffy destroys Arlong Park."
+    "Major players": "Arlong pirates, Nami, Nojiko",
+    "Importance": "Nami's tragic past is revealed.",
+    "Major Spoiler Moment": "The races of One Piece are expanded by introducing fishmen."
   },
   {
     "Arc": "Loguetown Arc",
@@ -55,9 +55,9 @@
     "TotalChapters": 5,
     "Start onEpisode": 48,
     "TotalEpisodes": 6,
-    "Main Antagonist": "Smoker",
-    "Important Moment": "Luffy's execution is interrupted by a lightning bolt.",
-    "Major Spoiler Moment": "Dragon's first appearance."
+    "Major players": "Smoker, Buggy, Alvida",
+    "Importance": "The straw hats enter the grand line.",
+    "Major Spoiler Moment": "A man named Dragon saves Luffy from Smoker."
   },
   {
     "Arc": "Reverse Mountain Arc",
@@ -65,9 +65,9 @@
     "TotalChapters": 5,
     "Start onEpisode": 62,
     "TotalEpisodes": 2,
-    "Main Antagonist": "Laboon",
-    "Important Moment": "Meeting Laboon at Reverse Mountain.",
-    "Major Spoiler Moment": "Introduction of the Grand Line."
+    "Major players": "Laboon, Crocus",
+    "Importance": "Meeting Laboon and Crocus at Reverse Mountain.",
+    "Major Spoiler Moment": "Crocus tends to Laboon as he waits on a certain person."
   },
   {
     "Arc": "Whiskey Peak Arc",
@@ -75,9 +75,9 @@
     "TotalChapters": 9,
     "Start onEpisode": 64,
     "TotalEpisodes": 4,
-    "Main Antagonist": "Mr. 5",
-    "Important Moment": "Zoro fights the Baroque Works agents.",
-    "Major Spoiler Moment": "Luffy vs. Zoro."
+    "Major players": "Baroque Works, Vivi",
+    "Importance": "Introduction of Baroque Works.",
+    "Major Spoiler Moment": "Vivi is introduced and allies with the Straw Hats."
   },
   {
     "Arc": "Little Garden Arc",
@@ -85,9 +85,9 @@
     "TotalChapters": 15,
     "Start onEpisode": 70,
     "TotalEpisodes": 8,
-    "Main Antagonist": "Mr. 3",
-    "Important Moment": "Dorry and Brogy's duel.",
-    "Major Spoiler Moment": "Giant candle trap."
+    "Major players": "Mr. 3, Dory, Brogy",
+    "Importance": "Meeting giants for the first time.",
+    "Major Spoiler Moment": "Nami falls ill and the Straw Hats must find a cure."
   },
   {
     "Arc": "Drum Island Arc",
@@ -95,9 +95,9 @@
     "TotalChapters": 25,
     "Start onEpisode": 78,
     "TotalEpisodes": 14,
-    "Main Antagonist": "Wapol",
-    "Important Moment": "Chopper joins the crew.",
-    "Major Spoiler Moment": "Hiluluk's cherry blossoms."
+    "Major players": "Wapol, Dr. Kureha, Chopper",
+    "Importance": "Chopper joins the crew as Doctor and Nami is cured.",
+    "Major Spoiler Moment": "The first mention of Blackbeard."
   },
   {
     "Arc": "Alabasta Arc",
@@ -105,9 +105,9 @@
     "TotalChapters": 63,
     "Start onEpisode": 92,
     "TotalEpisodes": 39,
-    "Main Antagonist": "Crocodile",
-    "Important Moment": "Defeating Crocodile and saving Alabasta.",
-    "Major Spoiler Moment": "Luffy uses blood to counter Crocodile's sand."
+    "Major players": "Crocodile, Nico Robin, Vivi, Ace",
+    "Importance": "Luffy's brother Ace is introduced. Robin joins the crew. Vivi is restored to princess of Alabasta.",
+    "Major Spoiler Moment": "Poneglyphs are introduced. They are decipherable only to a few(like Robin)."
   },
   {
     "Arc": "Jaya Arc",
@@ -115,9 +115,9 @@
     "TotalChapters": 19,
     "Start onEpisode": 144,
     "TotalEpisodes": 9,
-    "Main Antagonist": "Bellamy the Hyena",
-    "Important Moment": "Luffy punches Bellamy.",
-    "Major Spoiler Moment": "Introduction of Blackbeard."
+    "Major players": "Bellamy, Doflamingo, Montblanc Cricket",
+    "Importance": "Sky Islands are real?",
+    "Major Spoiler Moment": "The Straw Hats meet Blackbeard."
   },
   {
     "Arc": "Skypiea Arc",
@@ -125,9 +125,9 @@
     "TotalChapters": 66,
     "Start onEpisode": 153,
     "TotalEpisodes": 43,
-    "Main Antagonist": "Enel",
-    "Important Moment": "Ringing the Golden Bell.",
-    "Major Spoiler Moment": "Luffy's rubber immunity to Enel's lightning."
+    "Major players": "Enel, Skypieans, Montblanc Noland",
+    "Importance": "Multiple expansions to the power system. History of Skypiea and its people explored.",
+    "Major Spoiler Moment": "Enel goes to the moon...yes really."
   },
   {
     "Arc": "Long Ring Long Land Arc",
@@ -135,9 +135,9 @@
     "TotalChapters": 19,
     "Start onEpisode": 207,
     "TotalEpisodes": 15,
-    "Main Antagonist": "Foxxy",
-    "Important Moment": "Davy Back Fight.",
-    "Major Spoiler Moment": "Aokiji's first appearance."
+    "Major players": "Foxxy Pirates, Kuzan",
+    "Importance": "One of the only in canon arcs that could be skipped with little consequence as of yet.",
+    "Major Spoiler Moment": "Aokiji's appears and could kill the crew but lets them live out of debt to Luffy's grandfather."
   },
   {
     "Arc": "Water 7 Arc",
@@ -145,9 +145,9 @@
     "TotalChapters": 53,
     "Start onEpisode": 229,
     "TotalEpisodes": 35,
-    "Main Antagonist": "CP9",
-    "Important Moment": "Usopp leaves the crew.",
-    "Major Spoiler Moment": "Going Merry's funeral."
+    "Major players": "Galley-La Shipwright company, Franky Family, Usopp, Robin",
+    "Importance": "Franky is introduced and has history with Galley-La.",
+    "Major Spoiler Moment":"Usopp and Robin experience crises that cause them to leave the crew."
   },
   {
     "Arc": "Enies Lobby Arc",
@@ -155,9 +155,9 @@
     "TotalChapters": 56,
     "Start onEpisode": 264,
     "TotalEpisodes": 49,
-    "Main Antagonist": "Rob Lucci",
-    "Important Moment": "Robin declares she wants to live.",
-    "Major Spoiler Moment": "Gear Second and Gear Third debut."
+    "Major players": "CP9, Sogeking, Franky",
+    "Importance": "Robin's tragic backstory is revealed.",
+    "Major Spoiler Moment": "Franky has blueprints to an ancient weapon. He blows them up lol."
   },
   {
     "Arc": "Post-Enies Lobby Arc",
@@ -165,9 +165,9 @@
     "TotalChapters": 11,
     "Start onEpisode": 313,
     "TotalEpisodes": 13,
-    "Main Antagonist": "Spandam",
-    "Important Moment": "Thousand Sunny is introduced.",
-    "Major Spoiler Moment": "Revelation of Luffy's family."
+    "Major players": "Marines, Usopp, Franky",
+    "Importance": "Usopp and Robin rejoin the crew. Franky joins as Shipwright and the crew gets a new ship.",
+    "Major Spoiler Moment": "Revelation of Luffy's father and grandfather. A revolutionary rebel and top marine respectively."
   },
   {
     "Arc": "Thriller Bark Arc",
@@ -175,9 +175,9 @@
     "TotalChapters": 48,
     "Start onEpisode": 337,
     "TotalEpisodes": 45,
-    "Main Antagonist": "Gecko Moria",
-    "Important Moment": "Brook joins the crew.",
-    "Major Spoiler Moment": "Nightmare Luffy."
+    "Major players": "Gecko Moria, Perona, Brook",
+    "Importance": "Brook is the person Laboon was waiting for. He joins the crew as musician.",
+    "Major Spoiler Moment": "The first appearance of Bartholomew Kuma."
   },
   {
     "Arc": "Sabaody Archipelago Arc",
@@ -185,9 +185,9 @@
     "TotalChapters": 24,
     "Start onEpisode": 385,
     "TotalEpisodes": 21,
-    "Main Antagonist": "Admiral Kizaru",
-    "Important Moment": "The crew is separated by Bartholomew Kuma.",
-    "Major Spoiler Moment": "Introduction of the Supernovas."
+    "Major players": "Admiral Kizaru, Sentomaru, Bartholomew Kuma",
+    "Importance": "The crew is utterly defeated and separated by Bartholomew Kuma.",
+    "Major Spoiler Moment": "The world nobles are introduced and attacked, causing chaos."
   },
   {
     "Arc": "Amazon Lily Arc",
@@ -195,9 +195,9 @@
     "TotalChapters": 11,
     "Start onEpisode": 408,
     "TotalEpisodes": 14,
-    "Main Antagonist": "Boa Hancock",
-    "Important Moment": "Luffy enters Amazon Lily.",
-    "Major Spoiler Moment": "Hancock's love for Luffy."
+    "Major players": "Boa Hancock, Luffy, the Gorgon sisters",
+    "Importance": "Hancock allies with Luffy after hearing he attacked the nobles. With whom Hancock has a dark history.",
+    "Major Spoiler Moment": "Ace is revealed to have been captured and is slated for execution."
   },
   {
     "Arc": "Impel Down Arc",
@@ -205,9 +205,9 @@
     "TotalChapters": 25,
     "Start onEpisode": 422,
     "TotalEpisodes": 31,
-    "Main Antagonist": "Magellan",
-    "Important Moment": "Luffy's alliance with former enemies.",
-    "Major Spoiler Moment": "Rescue of Ace fails."
+    "Major players": "Magellan, Bon Clay, Jinbe",
+    "Importance": "Antagonists from previous arcs return and are instrumental in guiding Luffy through the prison Ace is held in.",
+    "Major Spoiler Moment": "Bon Clay sacrifices himself to ensure Luffy and company escape."
   },
   {
     "Arc": "Marineford Arc",
@@ -215,9 +215,9 @@
     "TotalChapters": 31,
     "Start onEpisode": 457,
     "TotalEpisodes": 33,
-    "Main Antagonist": "Admiral Akainu",
-    "Important Moment": "Ace's death.",
-    "Major Spoiler Moment": "Whitebeard's death."
+    "Major players": "Marine cadre, Whitebeard pirates, Pirate Warlords",
+    "Importance": "Luffy and Whitebeard(Ace's captain) wage war on the Marines to save Ace.",
+    "Major Spoiler Moment": "Ace dies protecting Luffy. Blackbeard appears and steals Whitebeard's power after aiding in his death."
   },
   {
     "Arc": "Post-War Arc",
@@ -225,9 +225,9 @@
     "TotalChapters": 17,
     "Start onEpisode": 490,
     "TotalEpisodes": 27,
-    "Main Antagonist": "Blackbeard",
-    "Important Moment": "Luffy's training for two years.",
-    "Major Spoiler Moment": "Sabo's return."
+    "Major players": "Jinbe, the still separated Straw Hats, Shanks",
+    "Importance": "Luffy after the death of Ace sends a covert message to the Straw Hats to train and meet up again after two years",
+    "Major Spoiler Moment": "Luffy's backstory is explored revealing a third brother Sabo who is presumed dead."
   },
   {
     "Arc": "Return to Sabaody Arc",
@@ -235,9 +235,9 @@
     "TotalChapters": 5,
     "Start onEpisode": 517,
     "TotalEpisodes": 6,
-    "Main Antagonist": "Sentomaru",
-    "Important Moment": "The crew reunites after two years.",
-    "Major Spoiler Moment": "Straw Hat's new abilities."
+    "Major players": "Sentomaru, Kuma, Straw Hats",
+    "Importance": "The crew is much stronger and reunites after two years",
+    "Major Spoiler Moment": "Kuma elected to protect the Straw Hat ship for a yet unknown reason."
   },
   {
     "Arc": "Fishman Island Arc",
@@ -245,9 +245,9 @@
     "TotalChapters": 51,
     "Start onEpisode": 523,
     "TotalEpisodes": 52,
-    "Main Antagonist": "Hody Jones",
-    "Important Moment": "Luffy declares Fishman Island as his territory.",
-    "Major Spoiler Moment": "Luffy uses Haoshoku Haki."
+    "Major players": "New Fishman Pirates, Ryugu Kingdom, Jinbe ",
+    "Importance": "Luffy declares Fishman Island as his territory and gets into his first conflict with a pirate emperor.",
+    "Major Spoiler Moment": "The princess of Ryugu is another ancient weapon. Luffy asks Jinbe to join but he declines 'for now'."
   },
   {
     "Arc": "Punk Hazard Arc",
@@ -255,9 +255,9 @@
     "TotalChapters": 46,
     "Start onEpisode": 579,
     "TotalEpisodes": 47,
-    "Main Antagonist": "Caesar Clown",
-    "Important Moment": "Alliance with Trafalgar Law.",
-    "Major Spoiler Moment": "Introduction of the SAD."
+    "Major players": "Caesar Clown, Trafalgar Law, Doflamingo",
+    "Importance": "Luffy allies with fellow pirate Law to stop Caesar Clown and Doflamingo from mass producing weapons.",
+    "Major Spoiler Moment": "The crew meet 2 samurai(kinemon and Momo) in the confusion who were separated from their allies."
   },
   {
     "Arc": "Dressrosa Arc",
@@ -265,9 +265,9 @@
     "TotalChapters": 102,
     "Start onEpisode": 629,
     "TotalEpisodes": 118,
-    "Main Antagonist": "Donquixote Doflamingo",
-    "Important Moment": "Defeating Doflamingo and liberating Dressrosa.",
-    "Major Spoiler Moment": "Gear Fourth debut."
+    "Major players": "Donquixote pirates, Kyros, Rebecca, King Riku Dold",
+    "Importance": "The Straw Hats land in Doflamingo's base of operations Dressrosa to defeat him and stop his black market activity.",
+    "Major Spoiler Moment": "Luffy's brother Sabo is revealed to be alive and entrusted with Ace's powers. Law's tragic backstory and relationship with Doflamingo explored."
   },
   {
     "Arc": "Zou Arc",
@@ -275,9 +275,9 @@
     "TotalChapters": 23,
     "Start onEpisode": 751,
     "TotalEpisodes": 29,
-    "Main Antagonist": "Jack",
-    "Important Moment": "Forming the Ninja-Pirate-Mink-Samurai alliance.",
-    "Major Spoiler Moment": "Zunisha's attack."
+    "Major players": "Jack, the Mink people, Zunisha, the samurai",
+    "Importance": "Forming the Ninja-Pirate-Mink-Samurai alliance.",
+    "Major Spoiler Moment": "The samurai are revealed to be retainers for the Kozuki clan of Wano Country. Momo is the next heir."
   },
   {
     "Arc": "Whole Cake Island Arc",
@@ -285,19 +285,19 @@
     "TotalChapters": 78,
     "Start onEpisode": 783,
     "TotalEpisodes": 95,
-    "Main Antagonist": "Big Mom",
-    "Important Moment": "Sanji's wedding and escape.",
-    "Major Spoiler Moment": "Luffy vs. Katakuri."
+    "Major players": "Big Mom pirates, Sanji, Brook, Jinbe",
+    "Importance": "Sanji's full backstory and family are both explored. The Straw Hats separate. Half go to Wano and half attack the emperor Big Mom to rescue Sanji.",
+    "Major Spoiler Moment": "The Straw Hats begin assembling the pieces for a final map to the One Piece."
   },
   {
-    "Arc": "Levely Arc",
+    "Arc": "Reverie Arc",
     "Start onChapter": 903,
     "TotalChapters": 6,
     "Start onEpisode": 878,
     "TotalEpisodes": 12,
-    "Main Antagonist": "N/A",
-    "Important Moment": "Reverie begins.",
-    "Major Spoiler Moment": "Reverie discussions and decisions."
+    "Major players": "Imu, the 5 elders, Sabo",
+    "Importance": "During Reverie, It's revealed that there is a single secret ruler of the world named Imu.",
+    "Major Spoiler Moment": "Vivi disappears. The pirate warlords are abolished. Sabo is framed for the murder of Vivi's father.."
   },
   {
     "Arc": "Wano Country Arc: Act 1",
@@ -305,9 +305,9 @@
     "TotalChapters": 16,
     "Start onEpisode": 890,
     "TotalEpisodes": 26,
-    "Main Antagonist": "Kaido",
-    "Important Moment": "Luffy's first defeat by Kaido.",
-    "Major Spoiler Moment": "Kaido's dragon form."
+    "Major players": "Kaido, the Straw Hat alliance",
+    "Importance": "The Straw Hats land in Wano and begin the plan their attack on Kaido.",
+    "Major Spoiler Moment": "Kaido wields an immensely powerful dragon form and defeats Luffy effortlessly, capturing him which Luffy uses as time to train."
   },
   {
     "Arc": "Wano Country Arc: Act 2",
@@ -315,9 +315,9 @@
     "TotalChapters": 33,
     "Start onEpisode": 918,
     "TotalEpisodes": 41,
-    "Main Antagonist": "Kaido",
-    "Important Moment": "Alliance with the samurai of Wano.",
-    "Major Spoiler Moment": "Big Mom and Kaido's alliance."
+    "Major players": "Kaido, Eustass Kid and his first mate Kamazo, the red scabbard",
+    "Importance": "The Straw Hats successfully ally with the samurai of Wano along with fellow pirate Eustass Kid who was also defeated by Kaido.",
+    "Major Spoiler Moment": "Big Mom and Kaido ally with each other. Not seen since they were on the same ship many years ago."
   },
   {
     "Arc": "Wano Country Arc: Act 3",
@@ -325,8 +325,8 @@
     "TotalChapters": 99,
     "Start onEpisode": 959,
     "TotalEpisodes": 70,
-    "Main Antagonist": "Kaido",
-    "Important Moment": "Onigashima raid.",
-    "Major Spoiler Moment": "Oden's flashback."
+    "Major players": "Kaido, the Straw Hat alliance, the Red Scabbards",
+    "Important Moment": "The raid on Kaido begins in earnest. Jinbe returns and officially joins the crew.",
+    "Major Spoiler Moment": "Oden Kozuki, Momo's father is explored as well as his history with the Pirate King Gol D. Roger."
   }
 ]
