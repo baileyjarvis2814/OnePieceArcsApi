@@ -1,6 +1,12 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+app.use(cors({
+  origin: 'https://crash-cruise-hqe3fizo2-jarvis-projects-77e68e1c.vercel.app/',
+  optionsSuccessStatus: 200
+}));
 
 app.use(express.json());
 
@@ -10,7 +16,7 @@ app.get('/api/data', (req, res) => {
   res.json(data);
 });
 
-app.get('/api/data/arc', (req, res) => {
+app.get('/api/data/:arc', (req, res) => {
   const { arc } = req.params;
   const item = data.find((d) => d.Arc.toLowerCase() === arc.toLowerCase());
   if (item) {
