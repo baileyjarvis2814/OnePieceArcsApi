@@ -3,10 +3,8 @@ const cors = require('cors');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(cors({
-  origin: 'https://crash-cruise-hqe3fizo2-jarvis-projects-77e68e1c.vercel.app/',
-  optionsSuccessStatus: 200
-}));
+// Allow all origins
+app.use(cors());
 
 app.use(express.json());
 
